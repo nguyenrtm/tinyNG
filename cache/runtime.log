@@ -1,6 +1,6 @@
 DEBUG:root:Starting...
-DEBUG:root:Mode generate with letter.
-Weight path: cache/model_pretrained_best_loss.pth
+DEBUG:root:Mode generate random names.
+Weight path: cache/model_pretrained.pth
 Prompt letter: A.
 Length: 100
 DEBUG:root:Generating finished.
