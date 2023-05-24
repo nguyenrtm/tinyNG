@@ -1,0 +1,1 @@
+python main.py -d data/names.txt -c config/config.json -m 1

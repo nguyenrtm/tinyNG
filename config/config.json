@@ -1,0 +1,13 @@
+{
+    "alphabet": "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM -\n",
+    "device": "cpu",
+    "seq_length": 100,
+    "vocab_size": 55,
+    "embedding_dim": 256,
+    "hidden_size": 1024,
+    "dropout": 0.3,
+    "num_layers": 1,
+    "lr": 0.01,
+    "n_epochs": 20,
+    "min_loss": 50
+}
